@@ -1,0 +1,20 @@
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+target/
+bin/
+obj/
+.gradle/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
